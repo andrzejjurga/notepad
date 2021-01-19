@@ -9,3 +9,6 @@ This is C++ and Qt based project that focus on creating default notepad alternat
 ## Technologies:
 * C++
 * Qt 4.14.0
+## Goal:
+I often use notepad, but I missed some functions there. 
+I found that I would create a notebook from scratch to teach my self objective C++ and Qt.
