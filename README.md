@@ -3,7 +3,9 @@ This is C++ and Qt based project that focus on creating default notepad alternat
 ## features:
 * standard notepad features
 * dark mode
-## ToDo
+## ToDo:
 * enhanced searching
 * computational functions
-
+## Technologies:
+* C++
+* Qt 4.14.0
